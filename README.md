@@ -1,4 +1,4 @@
-# 💸 Dice Roller App 💸
+🎲 💸 Dice Roller App 🎲
 This app will help you with a difficult choice :)<br> 
 Just roll the dice and the result will not be long in coming!
 ![image](assets/ui.jpg)
